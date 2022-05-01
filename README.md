@@ -1,4 +1,4 @@
-# Hi there, I'm Ruchira Bandara [ruchira] 👋 
+# Hi there, I'm Ruchira Bandara  👋 
 
 
 [![Website](https://img.shields.io/website?label=ruchirabandara.com&style=for-the-badge&url=https%3A%2F%2Fruchirabandara.com)](https://ruchirabandara.com)
