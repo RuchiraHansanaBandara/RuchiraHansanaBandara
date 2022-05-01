@@ -10,7 +10,7 @@
 
 ## I'm a Developer, Designer, Electrician!!
 
-- Ruchira Bandara
+-  www.ruchirabandara.com
 - 🌱 I’m currently learning Srilanka Institute of Information Technology (SLIIT)
 - 🌱 I’m currently working at Pearson Lanka
 - 🌱 I’m currently learning everything 🤣
