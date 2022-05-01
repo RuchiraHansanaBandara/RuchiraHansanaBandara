@@ -36,6 +36,12 @@
 [![website](./img/instagram-light.svg)](https://www.instagram.com/ruchirabandaraa/#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/ruchirabandaraa/#gh-dark-mode-only)
 
+&nbsp;&nbsp;
+[![website](./img/facebook-light.svg)](https://www.facebook.com/ruchirahansana.bandara/#gh-light-mode-only)
+[![website](./img/facebook-dark.svg)](https://www.facebook.com/ruchirahansana.bandara/#gh-dark-mode-only)
+
+
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
@@ -75,3 +81,4 @@
 [instagram]: https://www.instagram.com/ruchirabandaraa/
 [linkedin]: https://www.linkedin.com/in/ruchirabandara/
 [AzureBoard]: https://dev.azure.com/RuchiraBandara/
+[Facebook]: https://www.facebook.com/ruchirahansana.bandara/
