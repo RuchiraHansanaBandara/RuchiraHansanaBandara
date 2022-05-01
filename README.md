@@ -1,4 +1,4 @@
-# Hi there, I'm Ruchira Bandara [ruchirabandara][youtube] 👋 
+# Hi there, I'm Ruchira Bandara  👋 
 
 
 [![Website](https://img.shields.io/website?label=ruchirabandara.com&style=for-the-badge&url=https%3A%2F%2Fruchirabandara.com)](https://ruchirabandara.com)
@@ -8,9 +8,9 @@
 
 
 
-## I'm a Developer, Designer, Electrician!!
+## I'm a Developer, Designer, Electrician!!!
 
-- Ruchira Bandara
+-  www.ruchirabandara.com
 - 🌱 I’m currently learning Srilanka Institute of Information Technology (SLIIT)
 - 🌱 I’m currently working at Pearson Lanka
 - 🌱 I’m currently learning everything 🤣
@@ -35,6 +35,12 @@
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/ruchirabandaraa/#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/ruchirabandaraa/#gh-dark-mode-only)
+
+&nbsp;&nbsp;
+[![website](./img/facebook-light.svg)](https://www.facebook.com/ruchirahansana.bandara/#gh-light-mode-only)
+[![website](./img/facebook-dark.svg)](https://www.facebook.com/ruchirahansana.bandara/#gh-dark-mode-only)
+
+
 
 ### Languages and Tools:
 
@@ -75,3 +81,4 @@
 [instagram]: https://www.instagram.com/ruchirabandaraa/
 [linkedin]: https://www.linkedin.com/in/ruchirabandara/
 [AzureBoard]: https://dev.azure.com/RuchiraBandara/
+[Facebook]: https://www.facebook.com/ruchirahansana.bandara/
