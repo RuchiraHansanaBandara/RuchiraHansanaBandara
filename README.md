@@ -3,7 +3,7 @@
 
 [![Website](https://img.shields.io/website?label=ruchirabandara.com&style=for-the-badge&url=https%3A%2F%2Fruchirabandara.com)](https://ruchirabandara.com)
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC-N0R8YtbU8kUoQ0gr4iXrg?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
-[![Twitter Follow](https://img.shields.io/twitter/follow/Ruchira?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/RUCHIRA0BANDARA/follow?)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Ruchira?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/RUCHIRA0BANDARA)
 
 
 
