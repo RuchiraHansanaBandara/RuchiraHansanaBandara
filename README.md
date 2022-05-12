@@ -15,7 +15,7 @@
 - 🌱 I’m currently working at Pearson Lanka
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about Shift
+- 🥅 2022 Goals: Learn more about Swift
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
 
