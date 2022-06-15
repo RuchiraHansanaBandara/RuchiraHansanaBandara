@@ -19,7 +19,6 @@
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
 
-
 ### Connect with me:
 
 [![website](./img/globe-light.svg)](https://ruchirabandara.com#gh-light-mode-only)
