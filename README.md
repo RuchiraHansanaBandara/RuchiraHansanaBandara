@@ -12,7 +12,7 @@
 
 -  www.ruchirabandara.com
 - 🌱 I’m currently learning Srilanka Institute of Information Technology (SLIIT)
-- 🌱 I’m currently working at Pearson Lanka
+- 🌱 I’m currently working at Arimac
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn more about Swift
