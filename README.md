@@ -15,7 +15,7 @@
 - 🌱 I’m currently working at Arimac
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Learn more about Swift
+- 🥅 2024 Goals: Learn more about Swift UI
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
 
