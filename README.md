@@ -11,7 +11,7 @@
 ## I'm a Developer, Designer, Electrician!!!!
 
 -  www.ruchirabandara.com
-- 🌱 I’m currently learning Srilanka Institute of Information Technology (SLIIT)
+- 🌱 I graduated from the Sri Lanka Institute of Information Technology (SLIIT).
 - 🌱 I’m currently working at Arimac
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
